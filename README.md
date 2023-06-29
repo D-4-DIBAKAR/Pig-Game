@@ -1,13 +1,13 @@
-# Guess My Number
+# Pig Game
 
 A Project Assignment given by InternPe during my internships
 This Project is a Simple Pig Game Project developed using HTML, CSS, Javascript...
 
-## Snapshots Of Guess My Number 🏆
+## Snapshots Of Pig Game 🏆
 
-![App Screenshot](https://github.com/D-4-DIBAKAR/Guess-My-Number/assets/71878062/96bd3d78-3715-4c24-a2c5-1f57f63dd83e)
+![App Screenshot](https://github.com/D-4-DIBAKAR/Pig-Game/assets/71878062/79910534-853a-406f-a1f2-8db4ab2668f4)
 
-![App Screenshot](https://github.com/D-4-DIBAKAR/Guess-My-Number/assets/71878062/4a8c0624-d42d-4548-9a95-89db87131985)
+![App Screenshot](https://github.com/D-4-DIBAKAR/Pig-Game/assets/71878062/993e6a9d-298f-4b18-b56e-f34b40b199ad)
 
 ## Authors
 
